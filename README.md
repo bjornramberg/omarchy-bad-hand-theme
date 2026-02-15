@@ -34,6 +34,8 @@ This theme includes configurations for:
 - Zed (aether.zed.json, aether.override.css) - Code editor<br>
 
 ## Included backgrounds
-![bad_hand_backgrounds](x)
+![bad_hand_backgrounds](https://github.com/user-attachments/assets/8faf5267-dd4b-4b94-9d6b-0ec5daca46d9)
+
+
 
 _AI disclosure: AI was used in the creation of the background pictures for this theme._
