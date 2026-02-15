@@ -4,7 +4,7 @@ This is a custom theme for [Omarchy.org](https://omarchy.org)
 
 This theme draws inspiration from vintage playing cards and aged paper, evoking the atmosphere of an old gambling hall where fortunes were won and lost. The Bad Hand Theme uses a warm sepia palette with deep crimson accents, capturing the timeworn elegance of antique card decks.
 
-![bad-hand](x)
+![bad-hand](preview.png)
 
 ## Installation
 
